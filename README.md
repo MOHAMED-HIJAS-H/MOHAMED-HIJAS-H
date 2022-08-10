@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MOHAMED-HIJAS-H.MOHAMED-HIJAS-H)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MOHAMED-HIJAS-H)
 /
 MOHAMED-HIJAS-H)
 <!--
