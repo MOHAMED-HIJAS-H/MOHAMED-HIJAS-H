@@ -10,10 +10,17 @@
     
 ## About Me:
 <div>
-        👉🌱 I’m currently learning cloud computing , AWS<br/>
-        - 👯 I’m looking to collaborate on Interesting and Innovative Projects <br/>
-        - ⚡ Fun fact I like to play cricket 🏏 and listening songs 🎧 <br/>
+        -> 🌱 I’m currently learning Cloud Computing and AWS<br/>
+        -> 👯 I’m looking to collaborate on Interesting and Innovative Projects..<br/>
+        -> ⚡ Fun fact : I like to play Cricket 🏏 and listening songs 🎧 <br/>
 </div>
+
+<h2>My Current Skill Set 🖥️</h2>
+<p align="center">
+  <img src = "https://skillicons.dev/icons?i=c,cpp,html,css,js,mysql,git,linux&theme=light" />
+</p>
+
+<hr>
 
 <!-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
