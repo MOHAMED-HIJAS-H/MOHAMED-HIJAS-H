@@ -15,12 +15,22 @@
         -> ⚡ Fun fact : I like to play Cricket 🏏 and listening songs 🎧 <br/>
 </div>
 
-<h2>My Current Skill Set 🖥️</h2>
+<h2>My Current Skill and Tools: 🖥️</h2>
 <p align="center">
   <img src = "https://skillicons.dev/icons?i=c,cpp,html,css,js,mysql,git,python,flask,linux&theme=light" />
 </p>
 
 <hr>
+
+<h3 align="left"> 🚀 Github stats! </h3>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MOHAMED-HIJAS-H&theme=highcontrast&show_icons=true&count_private=true" />
+</div>
+
+<p align="center" >
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MOHAMED-HIJAS-H&theme=lowcontrast&show_icons=true&count_private=true" />
+</p>
+
 
 <!-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
