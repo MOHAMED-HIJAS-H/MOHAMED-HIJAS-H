@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm MOHAMED HIJAS H
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MOHAMED-HIJAS-H.MOHAMED-HIJAS-H)
+
+<h2>Currently Student at...</h2>
+    BANNARI AMMAN INSTITUTE OF TECHNOLOGY
+<h3>Year of Graduation 🎓</h3>
+    2024, will be my year of Graduation.
 
 
 
