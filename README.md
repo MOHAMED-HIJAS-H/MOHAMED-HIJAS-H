@@ -10,7 +10,7 @@
     
 ## About Me:
 <div>
-        -🌱 I’m currently learning cloud computing , AWS<br/>
+        👉🌱 I’m currently learning cloud computing , AWS<br/>
         - 👯 I’m looking to collaborate on Interesting and Innovative Projects <br/>
         - ⚡ Fun fact I like to play cricket 🏏 and listening songs 🎧 <br/>
 </div>
