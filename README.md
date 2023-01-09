@@ -24,7 +24,7 @@
 
 <h3 align="left"> 🚀 Github stats! </h3>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MOHAMED-HIJAS-H&theme=highcontrast&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MOHAMED-HIJAS-H&theme=highcontrast&show_icons=true&count_private=false" />
 </div>
 
 <p align="center" >
