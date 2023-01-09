@@ -6,10 +6,14 @@
     BANNARI AMMAN INSTITUTE OF TECHNOLOGY
 <h3>Year of Graduation 🎓</h3>
     2024, will be my year of Graduation.
-
-
-
-Here are some ideas to get you started:
+    
+    
+## About Me:
+<div>
+        - 🌱 I’m currently learning cloud computing , AWS<br/>
+        - 👯 I’m looking to collaborate on Interesting and Innovative Projects <br/>
+        - ⚡ Fun fact I like to play and watch cricket 🏏 and listening songs 🎧 <br/>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -22,4 +26,4 @@ Here are some ideas to get you started:
 -->
 <h3>📬To Reach Me</h3>
 
-<a href="mailto:mohamedhijas.ct20@bitsathy.ac.in">![mohamedhijas.ct20@bitsathy.ac.in](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)</a> <a href="https://www.linkedin.com/in/mohamedhijas/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+<a href="mailto:mohamedhijas.ct20@bitsathy.ac.in">![mohamedhijas.ct20@bitsathy.ac.in](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/mohamedhijas/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
