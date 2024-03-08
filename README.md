@@ -17,7 +17,7 @@
 
 <h2>My Current Skill and Tools: 🖥️</h2>
 <p align="center">
-  <img src = "https://skillicons.dev/icons?i=c,cpp,html,css,js,mysql,vs code,git,python,flask" />
+  <img src = "https://skillicons.dev/icons?i=c,cpp,html,css,js,mysql,canva,git,visualstudio code,git,python,flask" />
 </p>
 
 <hr>
