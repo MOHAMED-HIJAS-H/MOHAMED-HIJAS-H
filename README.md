@@ -2,7 +2,7 @@
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MOHAMED-HIJAS-H.MOHAMED-HIJAS-H)
 
-<h2>Currently Student at 🎓...</h2>
+<h2>Recently Graduated in my degree 🎓...</h2>
   ->  BANNARI AMMAN INSTITUTE OF TECHNOLOGY.
 <h3>Year of Graduation 🎓</h3>
   ->  2024, will be my year of Graduation.
@@ -10,7 +10,7 @@
     
 ## About Me:
 <div>
-        -> 🌱 I’m currently learning Cloud Computing and AWS<br/>
+        -> 🌱 I’m currently learning Mern stack <br/>
         -> 👯 I’m looking to collaborate on Interesting and Innovative Projects..<br/>
         -> ⚡ Fun fact : I like to play Cricket 🏏 and listening songs 🎧 <br/>
 </div>
