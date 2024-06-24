@@ -2,7 +2,7 @@
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MOHAMED-HIJAS-H.MOHAMED-HIJAS-H)
 
-<h2>Recently Graduated in my degree 🎓...</h2>
+<h2>Recently Graduated with a Degree in 🎓B.TECH COMPUTER TECHNOLOGY...</h2>
   ->  BANNARI AMMAN INSTITUTE OF TECHNOLOGY.
 <h3>Year of Graduation 🎓</h3>
   ->  2024, will be my year of Graduation.
