@@ -4,13 +4,12 @@
 
 <h2>Recently Graduated with a Degree in 🎓B.TECH COMPUTER TECHNOLOGY...</h2>
   ->  BANNARI AMMAN INSTITUTE OF TECHNOLOGY.
-<h3>Year of Graduation 🎓</h3>
-  ->  2024, will be my year of Graduation.
+
     
     
 ## About Me:
 <div>
-        -> 🌱 I’m currently learning Mern stack <br/>
+        -> 🌱 I’m currently learning C# stack <br/>
         -> 👯 I’m looking to collaborate on Interesting and Innovative Projects..<br/>
         -> ⚡ Fun fact : I like to play Cricket 🏏 and listening songs 🎧 <br/>
 </div>
